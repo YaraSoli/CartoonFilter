@@ -37,7 +37,3 @@ if __name__ == '__main__':
     image = cv2.imread('test_image.png')
     cie_lab(image)
 
-
-# ich (Ede) habe das original_image aus dem display_images() entfernt, um zu testen
-
-
